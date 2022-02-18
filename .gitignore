@@ -1,0 +1,4 @@
+node_modules/
+.prettierrc
+client/node_modules/
+client/yarn-error.log
